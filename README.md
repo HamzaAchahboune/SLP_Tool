@@ -42,11 +42,4 @@ To check the status of SLP in esxi server you sould select the 3 option
 For more information about the SLP protocol you can press 7 option to display some information about esxi attacks and how can use the script  
 
 ## Contact information :
-- [Facebook](https://www.facebook.com/profile.php?id=100082569926842)
-- [Twitter](https://twitter.com/HamzaAchahboun3)
 - [LinkedIn](https://www.linkedin.com/in/achahboune-hamza/)
-- [Redit](https://www.reddit.com/user/HamzaVerde)
-- [Youtube](https://www.youtube.com/channel/UCVIOkzY9OijnUJ-daoZsXqw)
-
-## Credits
-This project was developed by Hamza Achahboune . 
